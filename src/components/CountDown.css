@@ -1,0 +1,12 @@
+.countdown{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    background: black;
+    color: white;
+    border-radius: black;
+    width: 200px;
+    margin: 20px;
+}
